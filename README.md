@@ -21,3 +21,5 @@ We then identify the optimal number of clusters by visualizing this data in the 
 The optimal number of clusters can be identified by looking at the dendrogram and identifying the number of long branches without horizontal splitting. As we can see from the image above, we can assume 5 as a good number of clusters (3 long clusters within green and 1 each for red and cyan).
 
 Then we proceed to fit the identified clusters in the data and visualize it. Appropriate labels can be given to the clusters post visualization and interpretation of the data.
+
+Source to the original dataset: https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fvjchoudhary7%2Fcustomer-segmentation-tutorial-in-python
